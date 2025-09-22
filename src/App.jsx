@@ -3,6 +3,7 @@ import './App.css'
 import AvailablePlayers from './commutment/Available Players/AvailablePlayers'
 import Nave from './commutment/Nave/Nave'
 import SelectPlayers from './commutment/Select Players/SelectPlayers'
+import Baner from './commutment/Banar Section/Baner'
 
 const feachData= async() =>{
  const res=await fetch('/player.json')
@@ -17,6 +18,7 @@ function App() {
   return (
     <>
       <Nave></Nave>
+      <Baner></Baner>
 
      <div className='flex justify-between items-center m-4 max-w-[1200px] mx-auto'>
       <h1 className='font-bold text-2xl'>Available Players</h1>
