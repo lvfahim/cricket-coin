@@ -9,15 +9,17 @@ const feachData= async() =>{
  const res=await fetch('/player.json')
  return res.json()
 }
+const  promishPlayer=feachData()
+
 
 function App() {
-  const  promishPlayer=feachData()
 
     const [toggole,setToggole]=useState(true)
+    const [availableBalans,setAvailableBalans]=useState(6000)
 
   return (
     <>
-      <Nave></Nave>
+      <Nave availableBalans={availableBalans}></Nave>
       <Baner></Baner>
 
      <div className='flex justify-between items-center m-4 max-w-[1200px] mx-auto'>
@@ -30,7 +32,7 @@ function App() {
 
       {
         toggole===true?<Suspense fallback={<span className="loading loading-spinner loading-xl"></span>}>
-        <AvailablePlayers promishPlayer={promishPlayer}></AvailablePlayers>
+        <AvailablePlayers availableBalans={availableBalans} setAvailableBalans={setAvailableBalans} promishPlayer={promishPlayer}></AvailablePlayers>
         </Suspense> : <SelectPlayers></SelectPlayers>
       }  
     </>

@@ -7,7 +7,7 @@
     "rating": 736,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm medium",
-    "price_usd": 12000000
+    "price_usd": 1200
   },
   {
     "player_image": "https://i.ibb.co.com/pBQZCCfy/hero-section.jpg",
@@ -17,7 +17,7 @@
     "rating": 784,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price_usd": 9500000
+    "price_usd": 9500
   },
   {
     "player_image": "https://i.ibb.co.com/XmgvQNj/1737655-gmqrcnwbqaadvcy.jpg",
@@ -27,7 +27,7 @@
     "rating": 756,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price_usd": 10500000
+    "price_usd": 1050
   },
   {
     "player_image": "https://i.ibb.co.com/n8MYGK81/291306.webp",
@@ -37,7 +37,7 @@
     "rating": 739,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price_usd": 9800000
+    "price_usd": 980
   },
   {
     "player_image": "https://i.ibb.co.com/mgQvNWG/skysports-joe-root-england-4314763.jpg",
@@ -47,7 +47,7 @@
     "rating": 908,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price_usd": 11000000
+    "price_usd": 1100
   },
   {
     "player_image": "https://i.ibb.co.com/LhcRx97c/4-KB8-POB-AFP-20250228-36-YV9-TX-v1-High-Res-Cricket-Ct2025-Aus-Afg-jpg.webp",
@@ -57,7 +57,7 @@
     "rating": 816,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm legbreak",
-    "price_usd": 10000000
+    "price_usd": 100
   },
   {
     "player_image": "https://i.ibb.co.com/ccxMqy46/images.jpg",
@@ -67,7 +67,7 @@
     "rating": 889,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
-    "price_usd": 11500000
+    "price_usd": 1150
   },
   {
     "player_image": "https://i.ibb.co.com/jvQ0xFjR/India-Cricket-WCup-68-1697274210374-1697274246996.jpg",
@@ -77,7 +77,7 @@
     "rating": 850,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price_usd": 9900000
+    "price_usd": 990
   },
   {
     "player_image": "https://i.ibb.co.com/SDCNwQxy/untitled-design-2023-07-03t130526-1688370728.jpg",
@@ -87,7 +87,7 @@
     "rating": 295,
     "bating_style": "Left-hand bat",
     "bowling_style": "Right-arm fast-medium",
-    "price_usd": 13000000
+    "price_usd": 1300
   },
   {
     "player_image": "https://i.ibb.co.com/N2QQc3Wx/dm-191222-PC-JADEJA-WI-3-RD-ODI.webp",
@@ -97,7 +97,7 @@
     "rating": 405,
     "bating_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
-    "price_usd": 8500000
+    "price_usd": 850
   },
   {
     "player_image": "https://i.ibb.co.com/QjFwTFtQ/pat-cummins-223626895-3x4-2.webp",
@@ -107,7 +107,7 @@
     "rating": 838,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
-    "price_usd": 9000000
+    "price_usd": 900
   },
   {
     "player_image": "https://i.ibb.co.com/V0JrRz7d/rashid-khan.webp",
@@ -117,6 +117,6 @@
     "rating": 657,
     "bating_style": "Right-hand bat",
     "bowling_style": "Right-arm legbreak",
-    "price_usd": 7500000
+    "price_usd": 750
   }
 ]
